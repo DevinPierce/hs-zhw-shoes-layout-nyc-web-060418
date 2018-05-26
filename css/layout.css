@@ -24,4 +24,34 @@
 
 /* Posititoning Classes */
 
+h2.milk_text {
+  padding-top: 20px;
+}
 
+#featured-brands {
+  width: 66%;
+}
+
+.col-1 {
+  width: 32%;
+  float: left;
+  margin: 1% 1% 1% 0px;
+}
+
+.col-2 {
+ width: 32%;
+ float: left;
+ margin: 1%;
+}
+
+.col-3 {
+  width: 32%;
+  float: left;
+  margin: 1% 0px 1% 1%;
+}
+
+#details .wrapper > div {
+	float: left;
+	width: 33.33%;
+	padding: 15px;
+}
